@@ -1,3 +1,3 @@
-# devops-hw1
+# Homework 1
 
-test
+Link to dockerhub: https://hub.docker.com/r/iamthewalrus67/rust-hello-world
